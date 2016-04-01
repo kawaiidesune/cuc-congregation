@@ -2,7 +2,7 @@
 A child theme of the UUA Congregation theme, but with the CUC logo instead. Also, please note that the CUC logo was used for this modification without permission of the [Canadian Unitarian Council](http://cuc.ca/). If someone from the CUC has a different logo they want me to use, I’ll be more than happy to update the theme!
 
 ## How to install
-1. Download the zip file.
+1. [Download the zip file.](https://github.com/kawaiidesune/cuc-congregation/blob/master/uua-congregation-child.zip?raw=true)
 2. In the dashboard of your WordPress installation, go to Appearance->Themes
 3. Click the « Add New » button next to the Themes header.
 4. Click « Upload theme »
