@@ -1,5 +1,5 @@
 # CUC Congregation
-A child theme of the UUA Congregation theme, but with the CUC logo instead. Also, please note that the CUC logo was used for this modification without permission of the [Canadian Unitarian Council](http://cuc.ca/). If someone from the CUC has a different logo they want me to use, I’ll be more than happy to update the theme!
+A child theme of [the UUA Congregation theme](http://uuatheme.org/), but with the CUC logo instead. Also, please note that the CUC logo was used for this modification without permission of the [Canadian Unitarian Council](http://cuc.ca/). If someone from the CUC has a different logo they want me to use, I’ll be more than happy to update the theme!
 
 ## How to install
 1. [Download the zip file.](https://github.com/kawaiidesune/cuc-congregation/blob/master/uua-congregation-child.zip?raw=true)
